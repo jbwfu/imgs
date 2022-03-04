@@ -1,3 +1,4 @@
+//来自https://github.com/liningyuan/huaji
 var pointandlinestatus=(function(){
 var st={};
 st.cv=document.createElement('canvas');
